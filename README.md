@@ -1,6 +1,6 @@
 # Fruit Tree Species Classification using CNN and Textural Features 
 
-This repository archives scripts and sample data that use CNN model and spectral and textural information from publicly available remote sensing datasets of Sentinel-2 and Planet to classify fruit tree species.
+This repository archives scripts and sample data that use CNN model and spectral and textural information from publicly available remote sensing datasets of [Sentinel-2](https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2) and [Planet-NICFI mosaics](https://developers.google.com/earth-engine/datasets/catalog/projects_planet-nicfi_assets_basemaps_asia) to classify fruit tree species.
 
 ## Instruction ##
 Before running the scripts, you need to:
