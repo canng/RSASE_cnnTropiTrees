@@ -4,8 +4,8 @@ This repository archives scripts and sample data that use CNN model and spectral
 
 ## Instruction ##
 Before running the scripts, you need to:
-1. Instal Python at least version 3.10.
-2. Create virtual environment.
+1. Install Python at least version 3.10
+2. Create virtual environment
 3. Install the required package in the `requirements.txt` using `pip`.
 
 ## Guide to the Scripts ##
