@@ -14,4 +14,9 @@ This modelling consists:
 
 >This Jupyter Notebook includes codes to load the trained CNN model and sample data to classify the normalized data of spectral and textural bands into different fruit tree species: Pomelo, Coconut, Coconut Intercropping, Rambutan, and Durian. 
 
+## References 
+* Zhang, Chenchen, et al. "Effect of textural features in remote sensed data on rubber plantation extraction at different levels of spatial resolution." Forests 11.4 (2020): 399. [DOI: 10.3390/f11040399](https://doi.org/10.3390/f11040399)
+
+* Habibie, Muhammad Iqbal, et al. "The development land utilization and cover of the Jambi district are examined and forecasted using Google Earth Engine and CNN1D." Remote Sensing Applications: Society and Environment 34 (2024): 101175. [DOI: 10.1016/j.rsase.2024.101175](https://doi.org/10.1016/j.rsase.2024.101175)
+
 
