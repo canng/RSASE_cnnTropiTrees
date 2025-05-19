@@ -9,7 +9,7 @@ Before running the scripts, you need to:
 3. Install the required package in the `requirements.txt` using `pip`.
 
 ## Guide to the Scripts ##
-This modelling consists:
+This archive consists:
 `cnnTropiTrees.ipynb`
 
 >This Jupyter Notebook includes codes to load the trained CNN model and sample data to classify the normalized data of spectral and textural bands into different fruit tree species: Pomelo, Coconut, Coconut Intercropping, Rambutan, and Durian. 
