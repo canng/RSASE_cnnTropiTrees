@@ -18,7 +18,7 @@ This archive consists:
 
 ## Reference
 
-Nguyen, C. T+, Diem, K. P.+, Nghia, D. H., Diem, N. K., Diep, N. T. H., Phan, T. N., Minh, V. Q., Quang, N. H., 2025. **Leveraging Convolutional Neural Networks and Textural Features for Tropical Fruit Tree Species Classification**. Remote Sensing Applications: Society and Environment, 101633 [DOI: 10.1016/j.rsase.2025.101633](https://doi.org/10.1016/j.rsase.2025.101633)
+[Nguyen, C. T+](https://orcid.org/0000-0003-0471-4062), Diem, K. P.+, Nghia, D. H., Diem, N. K., Diep, N. T. H., Phan, T. N., Minh, V. Q., Quang, N. H., 2025. **Leveraging Convolutional Neural Networks and Textural Features for Tropical Fruit Tree Species Classification**. Remote Sensing Applications: Society and Environment, 101633 [DOI: 10.1016/j.rsase.2025.101633](https://doi.org/10.1016/j.rsase.2025.101633)
 
 ### Related read
 
