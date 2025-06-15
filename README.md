@@ -1,4 +1,4 @@
-# Fruit Tree Species Classification using CNN and Textural Features 
+# Leveraging Convolutional Neural Networks and Textural Features for Tropical Fruit Tree Species Classification 
 
 This repository archives scripts and sample data that use CNN model and spectral and textural information from publicly available remote sensing datasets of [Sentinel-2](https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2) and [Planet-NICFI mosaics](https://developers.google.com/earth-engine/datasets/catalog/projects_planet-nicfi_assets_basemaps_asia) to classify fruit tree species.
 
@@ -18,7 +18,7 @@ This archive consists:
 
 ## Reference
 
-Nguyen, C. T+, Diem, K. P.+, Nghia, D. H., Diem, N. K., Diep, N. T. H., Phan, T. N., Minh, V. Q., Quang, N. H., 2025. Leveraging Convolutional Neural Networks and Textural Features for Tropical Fruit Tree Species Classification. Remote Sensing Applications: Society and Environment, 101633 [DOI: 10.1016/j.rsase.2025.101633](https://doi.org/10.1016/j.rsase.2025.101633)
+Nguyen, C. T+, Diem, K. P.+, Nghia, D. H., Diem, N. K., Diep, N. T. H., Phan, T. N., Minh, V. Q., Quang, N. H., 2025. **Leveraging Convolutional Neural Networks and Textural Features for Tropical Fruit Tree Species Classification**. Remote Sensing Applications: Society and Environment, 101633 [DOI: 10.1016/j.rsase.2025.101633](https://doi.org/10.1016/j.rsase.2025.101633)
 
 ### Related read
 
